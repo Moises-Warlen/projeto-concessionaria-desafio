@@ -1,0 +1,26 @@
+﻿@{ Layout = null; }
+@using System.Linq
+@model IEnumerable<Concessionaria.Web.Application.Email.Model.EmailModel>
+
+
+<table class="table table-striped" id="email">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Email</th>
+           
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Loop para cada telefone -->
+        @if (Model != null && Model.Any())
+        {
+            foreach (var email in Model)
+            {
+                @Html.Partial("~/Views/Email/_LinhaGridEmail.cshtml", email)
+            }
+        }
+    </tbody>
+</table>
+

@@ -1,0 +1,47 @@
+﻿@{ Layout = null; }
+@using System.Linq
+@model Concessionaria.Web.Application.Estoque.Model.EstoqueModel
+
+<h2 class="text-center">Editar Carro do estoque</h2>
+<form id="form-editar-estoque">
+    <input type="hidden" name="IdEstoque" id="idEstoque" value="@Model.IdEstoque" />
+
+    <div class="form-group">
+        <label for="modelo">Modelo</label>
+        <input type="text" id="modelo" name="Modelo" value="@Model.Modelo.Modelo" required disabled>
+    </div>
+
+    <div class="form-group">
+        <label for="anoFabricacao">Ano de Fabricação:</label>
+        <input type="number" id="anoFabricacao" name="AnoFabricacao" placeholder="YYYY" value="@Model.Ano" disabled>
+    </div>
+
+    <div class="form-group">
+        <input type="checkbox" id="turbo" name="MotorTurbo" value="true" @(Model.MotorTurbo ? "checked" : "")>
+        <label for="turbo">Incluir Turbo</label>
+        <!-- Campo oculto para garantir que o valor seja enviado quando o checkbox não for marcado -->
+        <input type="hidden" name="MotorTurbo" value="false">
+    </div>
+
+    <div class="form-group">
+        <label for="cor">Cor:</label>
+        <input type="text" id="cor" name="Cor" value="@Model.Cor" required>
+    </div>
+
+    <div class="form-group">
+        <label for="placa">Placa:</label>
+        <input type="text" id="placa" name="Placa" value="@Model.Placa" required>
+    </div>
+
+    <div class="form-group">
+        <label for="valor">Valor:</label>
+        <input type="text" id="valor" name="Valor" value="@Model.Valor" required>
+    </div>
+
+    <div class="form-group">
+        <label for="descricao">Descrição:</label>
+        <input type="text" id="descricao" name="Detalhes" value="@Model.Detalhes" required>
+    </div>
+
+    <button type="button" class="btn btn-success btn-sm" onclick="estoques.EditarEstoque()">Salvar Alterações</button>
+</form>

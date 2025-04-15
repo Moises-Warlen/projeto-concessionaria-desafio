@@ -1,0 +1,115 @@
+﻿@{ Layout = null; }
+@using System.Linq
+@model IEnumerable<Concessionaria.Web.Application.Modelo.Model.ModeloModel>
+
+<div id="btnAddAdicionarModelo">
+    <a class="btn btn-success float-right" onclick="modelos.chamarTelaAdicionarModelo()">
+        Adicionar
+    </a>
+</div>
+<h2 id="" class="text-center">Modelos Cadastrados</h2>
+<table id="modelosTable" class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Modelo</th>
+            <th>Marca</th>
+            <th>Potência</th>
+            <th>Tipo</th>
+            <th>Ano Mínimo</th>
+            <th>Ano Máximo</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var modelo in Model)
+            {
+                <tr class="modeloRow" id="modelo-@modelo.IdModelo">
+                    <td data-label="IdModelo">@modelo.IdModelo</td>
+                    <td data-label="Modelo">@modelo.Modelo</td>
+                    <td data-label="Marca">@modelo.Marca.Marca</td>
+                    <td data-label="Potência">@modelo.Potencia.Potencia</td>
+                    <td data-label="Tipo">@modelo.Tipo.Tipo</td>
+                    <td data-label="Ano Mínimo">@modelo.AnoMinimo</td>
+                    <td data-label="Ano Máximo">@modelo.AnoMaximo</td>
+                    <td>
+                        <a class="btn btn-primary btn-sm" onclick="modelos.chamarTelaEditarModelo(@modelo.IdModelo)" title="Editar Modelo">
+                            <i class="fas fa-pencil-alt"></i>
+                        </a>
+                        <a class="btn btn-danger btn-sm" onclick="modelos.ExcluirModelo(@modelo.IdModelo)" title="Excluir Modelo">
+                            <i class="fas fa-trash-alt"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="8" class="text-center">Nenhum modelo cadastrado.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div id="paginationControlsModelos" class="text-center">
+    <button id="prevPageModelos" class="btn btn-secondary" disabled>Anterior</button>
+    <span id="pageInfoModelos"></span>
+    <button id="nextPageModelos" class="btn btn-secondary">Próximo</button>
+</div>
+<script>
+    $(document).ready(function () {
+        const rowsPerPage = 5; // Número de linhas por página
+        let currentPageModelos = 1;   // Página inicial para Modelos
+
+        function showPage(page, tableSelector, rowSelector, pageInfoSelector, prevButtonSelector, nextButtonSelector) {
+            const rows = $(tableSelector + " tbody " + rowSelector);
+            const totalRows = rows.length;
+            const totalPages = Math.ceil(totalRows / rowsPerPage);
+
+            // Calculando os índices das linhas a serem exibidas
+            const startIndex = (page - 1) * rowsPerPage;
+            const endIndex = startIndex + rowsPerPage;
+
+            // Ocultando todas as linhas
+            rows.hide();
+
+            // Mostrando as linhas da página atual
+            rows.slice(startIndex, endIndex).show();
+
+            // Atualizando as informações de paginação
+            $(pageInfoSelector).text(`Página ${page} de ${totalPages}`);
+
+            // Desabilitar ou habilitar os botões "Anterior" e "Próximo"
+            $(prevButtonSelector).prop("disabled", page === 1);
+            $(nextButtonSelector).prop("disabled", page === totalPages);
+        }
+
+        function initializePagination(tableSelector, rowSelector, pageInfoSelector, prevButtonSelector, nextButtonSelector) {
+            // Inicializa a tabela com a primeira página
+            showPage(currentPageModelos, tableSelector, rowSelector, pageInfoSelector, prevButtonSelector, nextButtonSelector);
+
+            // Navegação entre as páginas
+            $(prevButtonSelector).click(function () {
+                if (currentPageModelos > 1) {
+                    currentPageModelos--;
+                    showPage(currentPageModelos, tableSelector, rowSelector, pageInfoSelector, prevButtonSelector, nextButtonSelector);
+                }
+            });
+
+            $(nextButtonSelector).click(function () {
+                const rows = $(tableSelector + " tbody " + rowSelector);
+                const totalRows = rows.length;
+                const totalPages = Math.ceil(totalRows / rowsPerPage);
+                if (currentPageModelos < totalPages) {
+                    currentPageModelos++;
+                    showPage(currentPageModelos, tableSelector, rowSelector, pageInfoSelector, prevButtonSelector, nextButtonSelector);
+                }
+            });
+        }
+
+        // Inicializa a paginação para a tabela de Modelos
+        initializePagination("#modelosTable", ".modeloRow", "#pageInfoModelos", "#prevPageModelos", "#nextPageModelos");
+    });
+</script>

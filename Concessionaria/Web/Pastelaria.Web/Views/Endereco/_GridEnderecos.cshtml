@@ -1,0 +1,31 @@
+﻿
+@{ Layout = null; }
+@using System.Linq
+@model IEnumerable<Concessionaria.Web.Application.Endereco.Model.EnderecoModel>
+
+
+<table class="table table-striped" id="endereco">
+    <thead>
+        <tr>
+            <th></th>
+            <th>CEP</th>
+            <th>Cidade</th>
+            <th>Bairro</th>
+            <th>Rua</th>
+            <th>Numero</th>
+            <th>Tipo</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+      
+        @if (Model != null && Model.Any())
+        {
+            foreach (var endereco in Model)
+            {
+                @Html.Partial("~/Views/Endereco/_LinhaGridEndereco.cshtml", endereco)
+            }
+        }
+    </tbody>
+</table>
+

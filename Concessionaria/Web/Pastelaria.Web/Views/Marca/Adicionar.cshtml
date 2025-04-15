@@ -1,0 +1,12 @@
+﻿
+@{ Layout = null; }
+@using System.Linq
+
+<h2>Adicionar Marca</h2>
+<form id="form-adicionar-marca">
+    <label for="marca">Nome da Marca:</label>
+    <input type="text" id="marca" name="Marca" required />
+    <button type="button" class="btn btn-success btn-sm" onclick="marcas.InserirMarca()">Cadastrar</button>
+    <button type="button" class="btn btn-warning btn-sm" onclick="marcas.CancelarAdicionar()">Cancelar</button>
+</form>
+

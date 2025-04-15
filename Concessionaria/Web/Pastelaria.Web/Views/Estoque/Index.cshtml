@@ -1,0 +1,26 @@
+﻿
+<div id="div-grid-estoques"></div> 
+<div id="div-editar-estoque"></div> 
+<div id="div-add-estoque"></div>
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<!-- Essa linha carrega a biblioteca jQuery versão 3.6.0 do CDN do Googleapis.
+O jQuery é uma biblioteca de JavaScript que simplifica a manipulação de documentos HTML,
+manipulação de eventos, animações e chamadas AJAX.-->
+
+<script type="text/javascript" src="~/Lib/estoque/estoque.js?d=@DateTime.Now.Ticks"></script> <!-- Aqui estou importando meu estoque.js-->
+<script>
+    // chamada do meu estoque.js
+    estoques.init({
+        urls: {
+                 getGridEstoques: '@Url.Action("ListarEstoque", "Estoque")',
+            chamarTelaAdicionarEstoque: '@Url.Action("Adicionar", "Estoque")',
+            ExcluirEstoque: '@Url.Action("Excluir", "Estoque")',
+                 chamarTelaEditarEstoque: '@Url.Action("Editar", "Estoque")',
+                 EditarEstoque: '@Url.Action("Editar", "Estoque")',
+
+              }
+        });
+</script>

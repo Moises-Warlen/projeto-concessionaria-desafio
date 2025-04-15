@@ -1,0 +1,106 @@
+﻿@{
+    Layout = null;
+}
+@using System.Linq
+@model IEnumerable<Concessionaria.Web.Application.Cliente.Model.ClienteModel>
+
+<div id="btnAddAdicionarUsuario">
+    <a class="btn btn-success float-right" onclick="clientes.buscarTelaAtualizarCliente()">
+        Adicionar novo Cliente
+    </a>
+</div>
+
+
+<h2 id="tituloUsuarios" class="text-center">Clientes</h2>
+
+<table id="clientesTable" class="table table-striped">
+    <thead>
+        <tr>
+            <th>Usuário</th>
+            <th>Email</th>
+            <th>Data Nascimento</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var cliente in Model)
+            {
+                <tr class="clienteRow">
+                    <td data-label="Usuário">@cliente.CPF</td>
+                    <td data-label="Email">@cliente.Nome</td>
+                    <td data-label="DataNascimento">@cliente.DataNascimento.ToString("dd/MM/yyyy")</td>
+                    <td>
+                        <a class="btn btn-primary btn-sm" onclick="clientes.buscarTelaAtualizarCliente(@cliente.IdCliente)">
+                            <i class="fas fa-edit"></i>
+                        </a>
+                        <a class="btn btn-danger btn-sm" onclick="clientes.deletarCliente(@cliente.IdCliente)" title="Excluir usuário">
+                            <i class="fas fa-trash-alt"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+<div id="paginationControlsClientes" class="text-center">
+    <button id="prevPageClientes" class="btn btn-secondary" disabled>Anterior</button>
+    <span id="pageInfoClientes"></span>
+    <button id="nextPageClientes" class="btn btn-secondary">Próximo</button>
+</div>
+<script>
+    $(document).ready(function () {
+        const rowsPerPage = 5; // Número de linhas por página
+        let currentPageClientes = 1; // Página inicial para Clientes
+
+        function showPage(page, tableSelector, rowSelector, pageInfoSelector, prevButtonSelector, nextButtonSelector) {
+            const rows = $(tableSelector + " tbody " + rowSelector);
+            const totalRows = rows.length;
+            const totalPages = Math.ceil(totalRows / rowsPerPage);
+
+            // Calculando os índices das linhas a serem exibidas
+            const startIndex = (page - 1) * rowsPerPage;
+            const endIndex = startIndex + rowsPerPage;
+
+            // Ocultando todas as linhas
+            rows.hide();
+
+            // Mostrando as linhas da página atual
+            rows.slice(startIndex, endIndex).show();
+
+            // Atualizando as informações de paginação
+            $(pageInfoSelector).text(`Página ${page} de ${totalPages}`);
+
+            // Desabilitar ou habilitar os botões "Anterior" e "Próximo"
+            $(prevButtonSelector).prop("disabled", page === 1);
+            $(nextButtonSelector).prop("disabled", page === totalPages);
+        }
+
+        function initializePagination(tableSelector, rowSelector, pageInfoSelector, prevButtonSelector, nextButtonSelector) {
+            // Inicializa a tabela com a primeira página
+            showPage(currentPageClientes, tableSelector, rowSelector, pageInfoSelector, prevButtonSelector, nextButtonSelector);
+
+            // Navegação entre as páginas
+            $(prevButtonSelector).click(function () {
+                if (currentPageClientes > 1) {
+                    currentPageClientes--;
+                    showPage(currentPageClientes, tableSelector, rowSelector, pageInfoSelector, prevButtonSelector, nextButtonSelector);
+                }
+            });
+
+            $(nextButtonSelector).click(function () {
+                const rows = $(tableSelector + " tbody " + rowSelector);
+                const totalRows = rows.length;
+                const totalPages = Math.ceil(totalRows / rowsPerPage);
+                if (currentPageClientes < totalPages) {
+                    currentPageClientes++;
+                    showPage(currentPageClientes, tableSelector, rowSelector, pageInfoSelector, prevButtonSelector, nextButtonSelector);
+                }
+            });
+        }
+
+        // Inicializa a paginação para a tabela de Clientes
+        initializePagination("#clientesTable", ".clienteRow", "#pageInfoClientes", "#prevPageClientes", "#nextPageClientes");
+    });
+</script>

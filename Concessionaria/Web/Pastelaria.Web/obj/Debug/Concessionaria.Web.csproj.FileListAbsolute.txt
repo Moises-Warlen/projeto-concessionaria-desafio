@@ -1,0 +1,1137 @@
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Concessionaria.Web.dll.config
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Concessionaria.Application.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Concessionaria.Application.pdb
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.pdb
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Concessionaria.Web.dll.config
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Concessionaria.Web.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Concessionaria.Web.pdb
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Concessionaria.Application.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Concessionaria.Application.pdb
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Concessionaria.Web.dll.config
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Concessionaria.Application.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Concessionaria.Application.pdb
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Web.dll.config
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Application.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Application.pdb
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Web.dll.config
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Application.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Application.pdb
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Web.dll.config
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Application.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Application.pdb
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.pdb
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Web.dll.config
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Web.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Web.pdb
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Application.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Domain.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\PagedList.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\PagedList.Mvc.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Domain.pdb
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Application.pdb
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\PagedList.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\PagedList.Mvc.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Web.dll.config
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Application.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\PagedList.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\PagedList.Mvc.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Concessionaria.Application.pdb
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\PagedList.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\PagedList.Mvc.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.pdb
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.dll.config
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.pdb
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Application.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Domain.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\PagedList.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\PagedList.Mvc.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Domain.pdb
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Application.pdb
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\PagedList.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\PagedList.Mvc.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.dll.config
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Application.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\PagedList.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\PagedList.Mvc.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Application.pdb
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\PagedList.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\PagedList.Mvc.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\Concessionaria100\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.pdb
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.dll.config
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.pdb
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Application.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Domain.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\PagedList.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\PagedList.Mvc.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Domain.pdb
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Application.pdb
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\PagedList.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\PagedList.Mvc.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.dll.config
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Application.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\PagedList.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\PagedList.Mvc.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Application.pdb
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\PagedList.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\PagedList.Mvc.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.dll.config
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Application.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\PagedList.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\PagedList.Mvc.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Application.pdb
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\PagedList.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\PagedList.Mvc.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.pdb
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.dll.config
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.pdb
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Application.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Domain.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\PagedList.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\PagedList.Mvc.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Domain.pdb
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Application.pdb
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\PagedList.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\PagedList.Mvc.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.dll
+C:\Users\Moises\Documents\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.dll.config
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Application.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\PagedList.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\PagedList.Mvc.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Application.pdb
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\PagedList.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\PagedList.Mvc.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.dll.config
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Application.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\PagedList.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\PagedList.Mvc.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Application.pdb
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\PagedList.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\PagedList.Mvc.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\ApplicationInsights.config
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\roslyn\csc.exe
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\roslyn\vbc.exe
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.dll.config
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Web.pdb
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Application.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Newtonsoft.Json.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\PagedList.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\PagedList.Mvc.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Extensions.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.Primitives.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Helpers.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Mvc.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Razor.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Concessionaria.Application.pdb
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\Newtonsoft.Json.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\PagedList.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\PagedList.Mvc.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\System.Net.Http.WebRequest.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Razor.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Helpers.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\bin\System.Web.Mvc.xml
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Web\Pastelaria.Web\obj\Debug\Concessionaria.Web.pdb

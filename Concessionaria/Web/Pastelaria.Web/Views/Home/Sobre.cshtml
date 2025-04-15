@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+
+    <style>
+        /* Exibir o dropdown quando o mouse estiver sobre o item do menu */
+        .nav-item:hover .dropdown-menu {
+            display: block;
+        }
+        /* Impedir que o dropdown desapareça ao mover o mouse dentro dele */
+        .dropdown:hover .dropdown-menu {
+            display: block;
+            margin-top: 0;
+        }
+        /* Mudar o estilo do link quando o dropdown estiver visível */
+        .nav-item:hover .nav-link {
+            color: #ffcc00; /* Cor do link quando o menu estiver aberto */
+            background-color: #454d55; /* Fundo do link quando o menu estiver aberto */
+            border-radius: 5px;
+        }
+        /* Remover o comportamento de toggle padrão do Bootstrap no clique */
+        .dropdown-toggle::after {
+            display: none;
+        }
+
+        /* Remover a cor azul quando um item for clicado */
+        .dropdown-item:active {
+            background-color: transparent !important;
+            color: black !important;
+        }
+    </style>
+</head>
+<body>
+    <div id="conteudo-sobre">
+        <div class="container mt-5">
+            <div class="">
+                <h3 class="display-7">Sobre o Sistema de Gestão da Concessionária SMN</h3>
+                <p class="lead">Este sistema foi desenvolvido como parte de um projeto de estudo, simulado para uma concessionária fictícia chamadaConcecionaria  SMN. Ele visa fornecer uma plataforma de gerenciamento de clientes, marcas, modelos, estoques e vendas, com foco na eficiência e simplicidade.</p>
+                <hr class="my-4">
+                <p>O objetivo do projeto é aplicar conceitos de desenvolvimento web, incluindo back-end e front-end, criando um ambiente completo para o gerenciamento de dados, consultas e cadastros, simulando um sistema real de gestão utilizado em concessionárias de veículos.</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>
+</html>
+
+

@@ -1,0 +1,81 @@
+﻿@{ Layout = null; }
+@using System.Linq
+
+@model Concessionaria.Web.Application.Modelo.Model.EditarModeloViewModel
+
+
+
+        <h2>Editar Modelo</h2>
+        <form id="form-editar-modelo">
+            <input type="hidden" name="IdModelo" id="idModelo" value="@Model.Modelo.IdModelo" />
+
+            <div class="form-group">
+                <label for="modelo">Nome do Modelo:</label>
+                <input type="text" id="modelo" name="Modelo" class="form-control" value="@Model.Modelo.Modelo" placeholder="Digite o nome do modelo" required />
+            </div>
+
+            <div class="form-group">
+                <label for="marca">Marca</label>
+                <select id="marca" asp-for="Modelo.Marca.IdMarca" class="form-control">
+                    <option value="">Selecione uma marca</option>
+                    @foreach (var marca in Model.Marcas)
+                    {
+                        <option value="@marca.IdMarca" @(marca.IdMarca == Model.Modelo.Marca.IdMarca ? "selected" : "")>
+                           @marca.Marca
+                        </option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="motorizacao">Motorização</label>
+                <select  id="potencia" asp-for="Modelo.Potencia.IdMotorizacao" class="form-control">
+                    <option value="">Selecione uma motorização</option>
+                    @foreach (var motorizacao in Model.Motorizacoes)
+                    {
+                        <option value="@motorizacao.IdMotorizacao" @(motorizacao.IdMotorizacao == Model.Modelo.Potencia.IdMotorizacao ? "selected" : "")>
+                           @motorizacao.Potencia
+                        </option>
+                    }
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="tipoCarroceria">Tipo de Carroceria</label>
+                <select id="tipo" asp-for="Modelo.Tipo.IdTipoCarroceria" class="form-control">
+                    <option value="">Selecione um tipo</option>
+                    @foreach (var tipo in Model.TiposCarroceria)
+                    {
+                        <option value="@tipo.IdTipoCarroceria" @(tipo.IdTipoCarroceria == Model.Modelo.Tipo.IdTipoCarroceria ? "selected" : "")>
+                          @tipo.Tipo
+                        </option>
+                    }
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="anoMinimo">Ano Mínimo:</label>
+                <input type="number" id="anoMinimo" name="AnoMinimo" class="form-control" placeholder="Digite o ano mínimo" required value="@Model.Modelo.AnoMinimo" />
+            </div>
+
+            <div class="form-group">
+                <label for="anoMaximo">Ano Máximo:</label>
+                <input type="number" id="anoMaximo" name="AnoMaximo" class="form-control" placeholder="Digite o ano máximo" required value="@Model.Modelo.AnoMaximo" />
+            </div>
+
+            <button type="button" class="btn btn-success btn-sm" onclick="modelos.EditarModelo()">Salvar Alterações</button>
+            <button type="button" class="btn btn-warning btn-sm"onclick="modelos.CancelarEdicao()" >Cancelar</button>
+        </form>
+
+  <script>
+    function validarFormulario() {
+        const anoMinimo = parseInt(document.getElementById("anoMinimo").value, 10);
+        const anoMaximo = parseInt(document.getElementById("anoMaximo").value, 10);
+
+        if (anoMaximo < anoMinimo) {
+            alert("O Ano Máximo não pode ser menor que o Ano Mínimo.");
+            return false; // Impede o envio do formulário
+        }
+
+        // Caso esteja tudo certo, envia o formulário
+        return true;
+    }
+</script>

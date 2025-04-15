@@ -1,0 +1,33 @@
+﻿
+<div id="div-grid-modelos"></div> <!--Aqui sera reenderizado Lista de Modelos existentes-->
+<div id="div-editar-modelo"></div> <!-- Aqui sera reenderizado formulario para editar o modelo-->
+<div id="div-add-modelo"></div><!-- Aqui sera reenderizado formulario para Adicionar o modelo-->
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<!-- Essa linha carrega a biblioteca jQuery versão 3.6.0 do CDN do Googleapis.
+O jQuery é uma biblioteca de JavaScript que simplifica a manipulação de documentos HTML,
+manipulação de eventos, animações e chamadas AJAX.-->
+
+ <!-- Adicione as bibliotecas jQuery e Select2 -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/css/select2.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-beta.1/dist/js/select2.min.js"></script>
+
+
+
+<script type="text/javascript" src="~/Lib/modelo/modelo.js?d=@DateTime.Now.Ticks"></script>  <!-- Aqui estou importando meu modelo.js-->
+<script>
+    // chamada do meu modelo.js
+    modelos.init({
+        urls: {
+               getGridModelos: '@Url.Action("ListarModelos" , "Modelo")',
+               chamarTelaAdicionarModelo: '@Url.Action("Adicionar", "Modelo")',
+               ExcluirModelo: '@Url.Action("Excluir", "Modelo")',
+            chamarTelaEditarModelo: '@Url.Action("Editar", "Modelo")',
+            EditarModelo: '@Url.Action("Editar", "Modelo")',
+           
+              }
+        });
+</script>

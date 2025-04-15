@@ -1,0 +1,269 @@
+﻿@{ Layout = null; }
+@using System.Linq
+@model Concessionaria.Web.Application.Venda.Model.AdicionarVendaViewModel
+
+<!-- Inclusão do CSS do Select2 -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/css/select2.min.css" rel="stylesheet" />
+<!-- Inclusão do JavaScript do Select2 -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/select2.min.js"></script>
+
+<h2>Adicionar Venda</h2>
+
+<form id="venda-form">
+    <div class="form-group">
+        <label for="cliente">Cliente:</label>
+        <select id="cliente" name="Cliente.IdCliente" class="form-control" required>
+            <option value="">Selecione um Cliente</option>
+            @foreach (var cliente in Model.Clientes)
+            {
+                <option value="@cliente.IdCliente">@cliente.Nome</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="carro">Carro:</label>
+        <select id="carro" name="Estoque.IdEstoque" class="form-control" required>
+            <option value="">Selecione um Carro</option>
+            @foreach (var carro in Model.Estoques)
+            {
+                var turboStatus = carro.MotorTurbo == true ? "com turbo" : "sem turbo";
+                <option value="@carro.IdEstoque" data-valor="@carro.Valor">@carro.Modelo.Modelo - @carro.Tipo.Tipo.ToString() - @carro.Cor.ToString() - @carro.Potencia.Potencia.ToString() - @carro.Ano.ToString() - @turboStatus</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="valor-sugerido">Valor no estoque</label>
+        <input type="text" id="valor-sugerido" name="ValorSugerido" value="@Model.ValorSugerido" readonly>
+    </div>
+
+    <div class="form-group">
+        <label for="valor-negociado">Valor Negociado</label>
+        <input type="number" id="valor-negociado" name="ValorNegociado" step="0.01" min="0" value="" required>
+        <div id="error-negociado" class="error" style="color:red;"></div>
+    </div>
+
+    <div class="form-group">
+        <label for="valor-entrada">Valor de Entrada</label>
+        <input type="number" id="valor-entrada" name="ValorEntrada" step="0.01" min="0" value="" required>
+        <div id="error-entrada" class="error" style="color:red;"></div>
+    </div>
+
+    <div class="form-group">
+        <label for="parcelas">Quantidade de Parcelas</label>
+        <select id="parcelas" name="parcelas" required>
+            <option value="1">1</option>
+            <option value="12">12</option>
+            <option value="24">24</option>
+            <option value="36">36</option>
+            <option value="48">48</option>
+            <option value="60">60</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="valor-parcela">Valor da Parcela</label>
+        <input type="number" id="valor-parcela" name="ValorParcela" step="0.01" min="0" value="" required>
+    </div>
+
+    <button type="submit" class="btn btn-success">Salvar Venda</button>
+</form>
+
+<!-- Botão "Confirmar" no modal -->
+<div class="modal" id="modal-confirmacao" style="display:none;">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Confirmar Venda</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>Você confirma as informações?</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" id="btn-cancelar" data-bs-dismiss="modal">Cancelar</button>
+                <button type="button" class="btn btn-primary" id="btn-confirmar">Confirmar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+$(document).ready(function () {
+    // Inicializa os campos Select2 para Cliente e Carro
+    $('#cliente').select2({
+        placeholder: 'Selecione o Cliente',
+        allowClear: true
+    });
+
+    $('#carro').select2({
+        placeholder: 'Selecione o Carro',
+        allowClear: true
+    });
+
+    // Atualiza o valor sugerido quando o Carro é selecionado
+    $('#carro').on('change', function () {
+        var valorCarro = $('#carro option:selected').data('valor');
+        $('#valor-sugerido').val(valorCarro);
+        validarValorNegociado();  // Valida quando o carro for alterado
+        validarValorEntrada();    // Valida o valor de entrada
+    });
+
+    // Função para validar o valor negociado
+    function validarValorNegociado() {
+        var valorSugerido = parseFloat($('#valor-sugerido').val());
+        var valorNegociado = parseFloat($('#valor-negociado').val());
+
+        // A validação só ocorre quando o valor negociado for um número válido
+        if (valorNegociado > 0) {
+            var valorMinimo = valorSugerido * 0.80; // 80% do valor sugerido
+            var valorMaximo = valorSugerido * 1.20; // 120% do valor sugerido
+
+            // Verificar se o valor negociado está abaixo de 80% ou acima de 120%
+            if (valorNegociado < valorMinimo) {
+                $('#error-negociado').text('O valor negociado não pode ser inferior a 80% do valor sugerido.');
+                return false;
+            } else if (valorNegociado > valorMaximo) {
+                $('#error-negociado').text('O valor negociado não pode ser superior a 120% do valor sugerido.');
+                return false;
+            } else {
+                $('#error-negociado').text('');  // Remove a mensagem de erro se for válido
+                return true;
+            }
+        }
+    }
+
+
+
+    // Função para validar o valor de entrada
+    function validarValorEntrada() {
+        var valorNegociado = parseFloat($('#valor-negociado').val());
+        var valorEntrada = parseFloat($('#valor-entrada').val());
+
+        // Verifica se o valor de entrada é maior que o valor negociado
+        if (valorEntrada > valorNegociado) {
+            $('#error-entrada').text('O valor de entrada não pode ser maior que o valor negociado.');
+            return false;
+        } else if (valorEntrada < 0) {
+            $('#error-entrada').text('O valor de entrada não pode ser menor que 0.');
+            return false;
+        } else {
+            $('#error-entrada').text('');  // Remove a mensagem de erro se for válido
+            return true;
+        }
+    }
+
+    // Função para calcular o valor da parcela
+    function calcularValorParcela() {
+        var valorNegociado = parseFloat($('#valor-negociado').val());
+        var valorEntrada = parseFloat($('#valor-entrada').val()) || 0;
+        var parcelas = parseInt($('#parcelas').val());
+
+        if (parcelas == 1) {
+            // Se a quantidade de parcelas for 1, o valor da parcela será o valor negociado - valor de entrada
+            var valorParcela = valorNegociado - valorEntrada;
+            $('#valor-parcela').val(valorParcela.toFixed(2));
+        } else if (parcelas > 1) {
+            // Caso contrário, calcula com juros simples baseado na porcentagem da entrada
+            var juros = 0;
+
+            var porcentagemEntrada = (valorEntrada / valorNegociado) * 100;
+
+            if (porcentagemEntrada >= 0 && porcentagemEntrada <= 20) {
+                juros = 0.05; // 5% de juros
+            } else if (porcentagemEntrada > 20 && porcentagemEntrada <= 40) {
+                juros = 0.04; // 4% de juros
+            } else if (porcentagemEntrada > 40 && porcentagemEntrada <= 60) {
+                juros = 0.03; // 3% de juros
+            } else if (porcentagemEntrada > 60 && porcentagemEntrada <= 80) {
+                juros = 0.02; // 2% de juros
+            } else if (porcentagemEntrada > 80 && porcentagemEntrada <= 99) {
+                juros = 0.01; // 1% de juros
+            }
+
+            // Calcula o valor total com juros
+            var valorComJuros = valorNegociado + (valorNegociado * juros);
+            var valorParcela = ((valorComJuros - valorEntrada) / parcelas);
+            $('#valor-parcela').val(valorParcela.toFixed(2));
+        }
+    }
+
+
+    // Atualiza o valor da parcela sempre que o valor negociado, entrada ou parcelas mudarem
+    $('#valor-negociado, #valor-entrada, #parcelas').on('input change', function () {
+        validarValorEntrada(); // Valida o valor de entrada sempre que mudar
+        validarValorNegociado(); // Valida o valor negociado
+        calcularValorParcela(); // Recalcula o valor da parcela
+    });
+
+    // Valida o formulário ao ser submetido
+    $('form').on('submit', function (e) {
+        // Verifica se o valor negociado e valor de entrada são válidos antes de submeter
+        if (!validarValorNegociado() || !validarValorEntrada()) {
+            e.preventDefault();
+
+        } else {
+            $('#modal-confirmacao').show();
+        }
+    });
+
+    // Cancelar a confirmação
+    $('#btn-cancelar').on('click', function () {
+        $('#modal-confirmacao').hide();
+    });
+
+   
+    $('#btn-confirmar').on('click', function () {
+        var $btnConfirmar = $(this);
+        $btnConfirmar.prop('disabled', true);
+
+        // Serializa os dados do formulário
+        var formData = $('#venda-form').serializeArray();
+
+        // Modifica o campo 'valor-parcela' para substituir o ponto por vírgula
+        formData.forEach(function (field) {
+            if (field.name === 'ValorParcela') { // Verifica o nome do campo
+                field.value = field.value.replace(/\./g, ','); // Substitui '.' por ','
+            }
+            if (field.name === 'ValorNegociado') { // Verifica o nome do campo
+                field.value = field.value.replace(/\./g, ','); // Substitui '.' por ','
+            }
+            if (field.name === 'ValorEntrada') { // Verifica o nome do campo
+                field.value = field.value.replace(/\./g, ','); // Substitui '.' por ','
+            }
+        
+        });
+
+
+        // Converte de volta para o formato esperado pela requisição
+        var updatedFormData = $.param(formData);
+      
+        $.ajax({
+            url: '@Url.Action("Post", "Venda")',
+            type: 'POST',
+            data: updatedFormData,
+            
+           
+            success: function (response) {
+                if (response.success) {
+                    $('#modal-confirmacao').hide();
+                    $('#div-add-venda').html('');
+                    $('#div-grid-vendas').show();
+                    location.reload();
+                } else {
+                    alert('Falha ao concluir a venda.');
+                }
+            },
+            error: function () {
+                alert('Erro ao enviar os dados. Tente novamente.');
+            },
+            complete: function () {
+                $btnConfirmar.prop('disabled', false);
+            }
+        });
+    });
+});
+</script>
+

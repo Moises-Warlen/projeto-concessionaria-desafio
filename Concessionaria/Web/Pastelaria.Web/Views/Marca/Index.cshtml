@@ -1,0 +1,26 @@
+﻿
+<div id="div-grid-marcas"></div> <!-- Aqui sera reenderizado Lista de marcas existentes-->
+<div id="div-editar-marca"></div> <!-- Aqui sera reenderizado Lista de marcas existentes-->
+<div id="div-add-marca"></div> <!-- Aqui sera reenderizado Lista de marcas existentes-->
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<!-- Essa linha carrega a biblioteca jQuery versão 3.6.0 do CDN do Googleapis.
+O jQuery é uma biblioteca de JavaScript que simplifica a manipulação de documentos HTML,
+manipulação de eventos, animações e chamadas AJAX.-->
+
+<script type="text/javascript" src="~/Lib/marca/marca.js?d=@DateTime.Now.Ticks"></script>  <!-- Aqui estou importando meu aquivo.js-->
+<script>
+    // chamar as views
+    marcas.init({
+        urls: {
+                getGridMarcas: '@Url.Action("ListarMarcas" , "Marca")',
+                chamarTelaAdicionarMarca: '@Url.Action("Adicionar", "Marca")',
+                ExcluirMarca: '@Url.Action("Excluir", "Marca")',
+                chamarTelaEditarMarca: '@Url.Action("Editar", "Marca")',
+                 EditarMarca: '@Url.Action("Editar", "Marca")',
+          
+              }
+        });
+</script>

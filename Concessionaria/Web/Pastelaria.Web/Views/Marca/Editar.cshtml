@@ -1,0 +1,11 @@
+﻿@{ Layout = null; }
+@using System.Linq
+
+<h2>Editar Marca</h2>
+<form id="form-editar-marca">
+    <input type="hidden" id="idMarca" name="IdMarca" value="@Model.IdMarca" />
+    <label for="marca">Nome da Marca</label>
+    <input type="text" id="marca" name="Marca" value="@Model.Marca" required />
+    <button type="button" class="btn btn-success btn-sm" onclick="marcas.EditarMarca()">Salvar Alterações</button>
+    <button type="button" class="btn btn-warning btn-sm" onclick="marcas.CancelarEdicao()">Cancelar</button>
+</form>

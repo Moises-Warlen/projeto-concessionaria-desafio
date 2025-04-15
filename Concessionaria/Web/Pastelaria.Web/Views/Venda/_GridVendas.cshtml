@@ -1,0 +1,103 @@
+﻿@{ Layout = null; }
+@using System.Linq
+@model IEnumerable<Concessionaria.Web.Application.HistoricoVendas.Model.HistoricoVendaModel>
+
+<div id="btnAddAdicionarVenda">
+    <a class="btn btn-success float-right" onclick="vendas.chamarTelaAdicionarVenda()">
+        Adicionar
+    </a>
+</div>
+<h2 id="" class="text-center">Historico de vendas</h2>
+<table id="vendasTable" class="table">
+    <thead>
+        <tr>
+            <th>Cliente</th>
+            <th>Modelo</th>
+            <th>Tipo</th>
+            <th>Potência</th>
+            <th>Data Venda</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var historicovendas in Model)
+            {
+                <tr class="vendaRow">
+                    <td data-label="cliente">@historicovendas.Cliente</td>
+                    <td data-label="Modelo">@historicovendas.Modelo</td>
+                    <td data-label="Tipo">@historicovendas.Tipo</td>
+                    <td data-label="Potência">@historicovendas.Potencia</td>
+                    <td data-label="data">@historicovendas.DataVenda</td>
+                    <td>
+                        <button type="button" class="btn btn-primary btn-sm" onclick="vendas.chamarTelaHistoricoVenda(@historicovendas.IdVenda)">
+                            Detalhes
+                        </button>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+<div id="paginationControls" class="text-center">
+    <button id="prevPage" class="btn btn-secondary" disabled>Anterior</button>
+    <span id="pageInfo"></span>
+    <button id="nextPage" class="btn btn-secondary">Próximo</button>
+</div>
+
+<script>
+    $(document).ready(function () {
+        const rowsPerPage = 5; // Número de linhas por página
+        let currentPage = 1;   // Página inicial
+
+        function showPage(page, tableSelector, rowSelector) {
+            const rows = $(tableSelector + " tbody " + rowSelector);
+            const totalRows = rows.length;
+            const totalPages = Math.ceil(totalRows / rowsPerPage);
+
+            // Calculando os índices das linhas a serem exibidas
+            const startIndex = (page - 1) * rowsPerPage;
+            const endIndex = startIndex + rowsPerPage;
+
+            // Ocultando todas as linhas
+            rows.hide();
+
+            // Mostrando as linhas da página atual
+            rows.slice(startIndex, endIndex).show();
+
+            // Atualizando as informações de paginação
+            $("#pageInfo").text(`Página ${page} de ${totalPages}`);
+
+            // Desabilitar ou habilitar os botões "Anterior" e "Próximo"
+            $("#prevPage").prop("disabled", page === 1);
+            $("#nextPage").prop("disabled", page === totalPages);
+        }
+
+        function initializePagination(tableSelector, rowSelector) {
+            // Inicializa a tabela com a primeira página
+            showPage(currentPage, tableSelector, rowSelector);
+
+            // Navegação entre as páginas
+            $("#prevPage").click(function () {
+                if (currentPage > 1) {
+                    currentPage--;
+                    showPage(currentPage, tableSelector, rowSelector);
+                }
+            });
+
+            $("#nextPage").click(function () {
+                const rows = $(tableSelector + " tbody " + rowSelector);
+                const totalRows = rows.length;
+                const totalPages = Math.ceil(totalRows / rowsPerPage);
+                if (currentPage < totalPages) {
+                    currentPage++;
+                    showPage(currentPage, tableSelector, rowSelector);
+                }
+            });
+        }
+
+        // Inicializa a paginação para a tabela de vendas
+        initializePagination("#vendasTable", ".vendaRow");
+    });
+</script>

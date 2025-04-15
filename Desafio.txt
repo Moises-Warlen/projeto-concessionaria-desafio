@@ -1,0 +1,91 @@
+1 - rotina para controle de marcas;
+	- campo para nome da marca; (obrigatório, não permitir informar uma marca já existente)
+	
+2 - rotina para controle de modelos;
+	- combo para marca (com pesquisa por nome); (obrigatorio)
+	- campo para nome do modelo; (obrigatorio)
+	- combo para informar motorização: (obrigatorio)
+		- usar tabela de domínio com os seguintes itens:
+			- 1.0 
+			- 1.0 
+			- 1.4
+			- 1.5
+			- 1.6
+			- 1.8
+			- 2.0
+			- 2.2	
+	- combo para informar tipo da carroceria: (obrigatorio)
+		- usar tabela de domínio com os seguintes itens:
+			- hatch
+			- sedan
+			- SUV
+			- utilitário
+			- camionete			
+	- campo para ano mínimo do veículo; (obrigatorio)
+	- campo para ano máximo do veículo; (obrigatorio)
+	
+3 - rotina para controle de estoque de carros:
+	- combo de modelo (com pesquisa por nome) (exibir concatenado: nome do modelo, tipo da carroceria e motorização) (obrigatorio); 
+	- campo para ano do veículo (permitir apenas os anos entre o ano mínimo e máximo salvos na rotina de modelos) (obrigatório); 	
+	- campo do tipo checkbox para indicar se motor é turbo ou não;
+	- campo para detalhar o veículo (textbox com 500 caracteres) (obrigatório);
+	- campo para cor (obrigatório);
+        - campo para Placa(obrigatório);
+	- campo para valor do carro (obrigatório);
+        -  disponivel
+
+	
+4 - rotina para controle de clientes (informações gerais, dados de contato (email , endereco, telefone) podera ser informado mais de um de cada)
+	- informações gerais:
+		- CPF (obrigatorio) (primeiro campo da tela, ao digitar, se o cliente já existir na base, carregar todos os dados dele)		
+		- nome (obrigatorio)
+		- data de nascimento (obrigatorio)
+	dados de contato:
+		- email (informar ao menos um): 
+			- nome do e-mail
+		- telefone (informar ao menos um)
+			- numero do do ddd
+			- numero do telefone
+		- endereco (informar ao menos um)
+			- cep
+			- rua
+			- numero
+			- bairro
+			- cidade				
+
+5 - rotina para venda de carros: 
+	- combo de clientes com pesquisa por nome; (obrigatorio)
+	- combo de carros disponíveis em estoque com pesquisa por nome também; (exibir concatenado: nome do modelo, tipo da carroceria, cor, motorização, ano, se é turbo) (obrigatorio)
+	- campos negociação:
+		- campo para exibir como informativo o valor sugerido do carro (valor informado no cadastro do estoque) (readonly);
+		- campo para valor negociado (limitar em 20% para mais ou para menos no valor de estoque) (obrigatório);
+		- campo para valor de entrada (não permitir informar valor superior ao negociado) (opcional);
+		- combo para quantidade de parcelas com as seguintes opcoes (obrigatório):
+			- 1
+			- 12
+			- 24
+			- 36
+			- 48
+			- 60
+	- campo para valor da parcela (informativo - readonly):
+		- se a quantidade de parcelas selecionada for 1:
+			- informar o valor negociado.
+		- se a quantidade de parcelas selecionada for maior que 1, calcular com juros simples de acordo com a seguinte regra:
+			- se entrada informada for entre:
+				- 0 e 20% do valor negociado: juros de 5%;
+				- 21% a 40% do valor negociado: juros de 4%;
+				- 41% a 60% do valor negociado: juros de 3%; 
+				- 61% a 80% do valor negociado: juros de 2%;
+				- 81% a 99% do valor negociado: juros de 1%;
+	
+	- Ao clicar em salvar, exibir modal perguntando se confirma as informações;
+	- Ao salvar venda, enviar e-mail para todos os e-mails informados pelo cliente, com todos os dados do carro, e todos os dados da venda, e parabenizando-o pela aquisição.
+	- Após salvar, não permitir que o veículo selecionado seja vendido novamente;
+	
+				
+6 - rotina de histórico de vendas:
+	- grid com nome do cliente, carro (exibir concatenado: nome do modelo, tipo da carroceria e motorização) e data de cadastro e botão de consultar detalhes;
+	- ao abrir os detalhes (todas informações em caráter informativo):
+		- exibir informações gerais do cliente (sem dados de contato);
+		- exibir todas informações do carro;
+		- exibir todas informações da venda; (valor do carro, valor negociado, valor da entrada, quantidade de parcelas e valor das parcelas);

@@ -1,0 +1,32 @@
+﻿
+@{ Layout = null; }
+@using System.Linq
+<h4> Adicionar Telefone</h4>
+
+<div class="row">
+    <div class="col-sm-1 mb-2">
+        <input type="text" class="form-control input-telefone" id="dddtelefone" placeholder="DDD" name="ddd">
+    </div>
+    <div class="col-sm-2 mb-2">
+        <input type="text" class="form-control input-telefone" id="telefone" placeholder="Numero" name="Numero">
+    </div>
+    <div class="col-sm-2 mb-2" title="Tipo Telefone">
+        <select class="form-control select-tipo-telefone" id="tipoTelefone" name="Tipo">
+            <option value="">Tipo </option>
+            <option value="Fixo">Fixo</option>
+            <option value="Celular">Celular</option>
+            <option value="Comercial">Comercial</option>
+        </select>
+    </div>
+</div>
+<br />
+<hr />
+
+<a onclick="$('div#formTelefone').hide()" class="btn btn-warning btn-sm" title="cancelar e voltar para lista de clientes">
+    <i class="fas fa-xmark"></i>
+</a>
+
+<button type="button" class="btn btn-success btn-sm" title="salvar cliente" onclick="clientes.inserirTelefone();">
+    <i class="fas fa-save icon-save"></i>
+</button>
+

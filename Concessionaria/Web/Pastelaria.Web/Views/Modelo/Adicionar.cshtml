@@ -1,0 +1,73 @@
+﻿@{ Layout = null; }
+@using System.Linq
+@model Concessionaria.Web.Application.Modelo.Model.AdicionarModeloViewModel
+
+<h2>Adicionar Modelo</h2>
+<form id="form-adicionar-modelo">
+    <div class="form-group">
+        <label for="modelo">Nome do Modelo:</label>
+        <input type="text" id="modelo" name="Modelo.Nome" class="form-control" placeholder="Digite o nome do modelo" required />
+    </div>
+
+    <div class="form-group">
+        <label for="marca">Marca:</label>
+        <select id="marca" name="Modelo.IdMarca" class="form-control" required>
+            <option value="">Selecione uma Marca</option>
+            @foreach (var marca in Model.Marcas)
+            {
+                <option value="@marca.IdMarca">@marca.Marca</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="potencia">Potência:</label>
+        <select id="potencia" name="Modelo.IdMotorizacao" class="form-control" required>
+            <option value="">Selecione uma Potência</option>
+            @foreach (var motorizacao in Model.Motorizacoes)
+            {
+                <option value="@motorizacao.IdMotorizacao">@motorizacao.Potencia</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="tipoCarroceria">Tipo de Carroceria:</label>
+        <select id="tipo" name="Modelo.IdTipoCarroceria" class="form-control" required>
+            <option value="">Selecione um Tipo de Carroceria</option>
+            @foreach (var tipo in Model.TiposCarroceria)
+            {
+                <option value="@tipo.IdTipoCarroceria">@tipo.Tipo</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="anoMinimo">Ano Mínimo:</label>
+        <input type="number" id="anoMinimo" name="Modelo.AnoMinimo" class="form-control" placeholder="Digite o ano mínimo" required />
+    </div>
+
+    <div class="form-group">
+        <label for="anoMaximo">Ano Máximo:</label>
+        <input type="number" id="anoMaximo" name="Modelo.AnoMaximo" class="form-control" placeholder="Digite o ano máximo" required />
+    </div>
+
+    <button type="button" class="btn btn-success" onclick="modelos.InserirModelo()">Adicionar Modelo</button>
+    <button type="button" class="btn btn-warning" onclick="modelos.CancelarAdicionar()">Cancelar</button>
+</form>
+
+<script>
+    $(document).ready(function () {
+        // Inicializa os campos select2 para Marca e Potência
+        $('#marca, #potencia, #tipo').select2({
+            placeholder: 'Selecione uma opção',
+            allowClear: true
+        });
+
+        // Atualiza o valor sugerido quando o carro for selecionado
+        $('#carro').on('change', function () {
+            var valorCarro = $('#carro option:selected').data('valor');
+            $('#valor-sugerido').val(valorCarro);
+        });
+    });
+</script>

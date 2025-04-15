@@ -1,0 +1,35 @@
+﻿body {
+    font-family: Arial, sans-serif;
+}
+
+#wrapper {
+    display: flex;
+    width: 100%;
+}
+
+#sidebar-wrapper {
+    min-height: 100vh;
+    width: 250px;
+    transition: margin 0.3s;
+}
+
+#sidebar-wrapper.toggled {
+    margin-left: -250px;
+}
+
+.list-group-item {
+    color: #333;
+}
+
+.list-group-item:hover {
+    background-color: #f8f9fa;
+}
+
+#page-content-wrapper {
+    flex: 1;
+    padding: 20px;
+}
+
+h2 {
+    margin-top: 20px;
+}

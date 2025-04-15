@@ -1,0 +1,78 @@
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\Pastel\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\ConcessionariaOLD\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\ConcessionariaOLD\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\ConcessionariaOLD\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\ConcessionariaOLD\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\ConcessionariaOLD\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaNEW\ConcessionariaOLD\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Downloads\ConcessionariaNEW\ConcessionariaNEW\ConcessionariaOLD\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaOLD\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\ConcessionariaNEW\ConcessionariaModelo\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\ProjetoConcessionariaSMN\ConcessionariaModelo\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\newBkp\newBkp\ConcessionariaModelo\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Documents\ConcessionariaCliente\ConcessionariaModelo\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\ConcessionariaModelo\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\ConcessionariaModelo\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\ConcessionariaModelo\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Downloads\Concessionaria\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Documents\ConcessionariaBKPFaltaEmail\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\ConcessionariaSMTP\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\Concessionaria\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\Concessionaria\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\Nova pasta (2)\ConcessionariaTestado\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Api\Pastelaria.Domain\bin\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.dll
+C:\Users\Moises\Desktop\ConcessionariaConcluido\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.pdb
+C:\Users\Moises\Desktop\Concessionaria\Api\Pastelaria.Domain\obj\Debug\Concessionaria.Domain.csprojResolveAssemblyReference.cache

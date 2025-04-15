@@ -1,0 +1,85 @@
+﻿@{
+    Layout = null;
+}
+
+@using System.Linq
+@model Concessionaria.Web.Application.Cliente.Model.ClienteModel
+
+<div id="div-atualizar-usuario">
+    <br>
+    <div>
+        <h4>@(Model.IdCliente != 0 ? "Editar Cliente" : "Adicionar Cliente")</h4>
+    </div>
+    <div>
+        <button class="btn btn-primary float-right" style="margin-left: 10px;" onclick="clientes.buscarPorCPF()">
+            Buscar
+        </button>
+        <input type="text" class="search-input float-right" id="searchInputCPF" placeholder="Buscar CPF ...">
+    </div>
+    <br>
+    <div id="formCliente">
+        <div class="row">
+            <input type="hidden" name="IdCliente" value="@Model.IdCliente" />
+            <div class="col-sm-3 mb-2">
+                <label for="cpf" class="sr-only">CPF</label>
+                <input type="text" class="form-control cpf" id="cpf" placeholder="CPF" value="@Model.CPF" name="CPF">
+            </div>
+            <div class="col-sm-4 mb-2">
+                <label for="nome" class="sr-only">Nome</label>
+                <input type="text" class="form-control nome" id="nome" placeholder="Nome" value="@Model.Nome" name="Nome">
+            </div>
+            <div class="col-sm-3 mb-2">
+             <label for="datanascimento" class="sr-only">
+                Data de Nascimento</label>
+             <input type="date" class="form-control datanascimento" id="datanascimento" placeholder="Data de Nascimento" value="@Model.DataNascimento.ToString("yyyy-MM-dd")" name="DataNascimento">
+             </div>
+        </div>
+    </div>
+    <br /><br />
+    <div>
+        <h5>
+            Telefones
+            <a onclick="clientes.buscarTelaAdicionarTelefone()" class="btn btn-success btn-sm float-right" title="Adicionar Novo Telefone">
+                <i class="fas fa-plus-circle"></i>
+            </a>
+        </h5>
+        <div id="formTelefone" style="display: none">@Html.Partial("~/Views/Telefone/AdicionarTelefone.cshtml")</div>
+    </div>
+    <div id="div-grid-telefone">
+        @Html.Partial("~/Views/Telefone/_GridTelefones.cshtml", Model.Telefones)
+    </div>
+    <hr />
+    <br /><br />
+    <div>
+        <h5>
+            Endereços
+            <a onclick="clientes.buscarTelaAdicionarEndereco()" class="btn btn-success btn-sm float-right" title="Adicionar Novo Endereço">
+                <i class="fas fa-plus-circle"></i>
+            </a>
+        </h5>
+        <div id="formEndereco" style="display: none">@Html.Partial("~/Views/Endereco/AdicionarEndereco.cshtml")</div>
+    </div>
+    <div id="div-grid-endereco">
+        @Html.Partial("~/Views/Endereco/_GridEnderecos.cshtml", Model.Endereco)
+    </div>
+    <hr />
+    <br /><br />
+    <div>
+        <h5>
+            Email
+            <a onclick="clientes.buscarTelaAdicionarEmail()" class="btn btn-success btn-sm float-right">
+                <i class="fas fa-plus-circle"></i>
+            </a>
+        </h5>
+        <div id="formEmail" style="display: none">@Html.Partial("~/Views/Email/AdicionarEmail.cshtml")</div>
+    </div>
+    <div id="div-grid-email">
+        @Html.Partial("~/Views/Email/_GridEmail.cshtml", Model.Email)
+    </div>
+    <hr />
+    <br /><br />
+    <a onclick="location.reload()" class="btn btn-warning btn-sm" title="cancelar e voltar para lista de clientes">CANCELAR</a>
+    <button type="button" class="btn btn-success btn-sm" title="salvar cliente" onclick="clientes.salvar()">
+        SALVAR
+    </button>
+</div>

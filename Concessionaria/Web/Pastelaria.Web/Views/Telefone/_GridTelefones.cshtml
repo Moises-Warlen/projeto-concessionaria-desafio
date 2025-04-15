@@ -1,0 +1,27 @@
+﻿@{ Layout = null; }
+@using System.Linq
+@model IEnumerable<Concessionaria.Web.Application.Telefone.Model.TelefoneModel>
+
+<table class="table table-striped" id="telefone">
+    <thead>
+        <tr>
+            <th></th>
+            <th>DDD</th>
+            <th>Numero</th>
+            <th>Tipo</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- Loop para cada telefone -->
+        @if (Model != null && Model.Any())
+        {
+            foreach (var telefone in Model)
+            {
+                @Html.Partial("~/Views/Telefone/_LinhaGridTelefone.cshtml", telefone)
+            }
+        }
+    </tbody>
+</table>
+
+

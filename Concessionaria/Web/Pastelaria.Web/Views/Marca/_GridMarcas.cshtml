@@ -1,0 +1,105 @@
+﻿@{ Layout = null; }
+@using System.Linq
+@model IEnumerable<Concessionaria.Web.Application.Marca.Model.MarcaModel>
+
+<div id="btnAddAdicionarUsuario">
+    <a class="btn btn-success float-right" onclick="marcas.chamarTelaAdicionarMarca()">
+        Adicionar
+    </a>
+</div>
+<h2 id="" class="text-center">Marcas Cadastradas</h2>
+<table id="marcasTable" class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Marca</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var marca in Model)
+            {
+                <tr class="marcaRow" id="marca-@marca.IdMarca">
+                    <td data-label="idMarca">@marca.IdMarca</td>
+                    <td data-label="Marca">@marca.Marca</td>
+                    <td>
+                        <a class="btn btn-primary btn-sm" onclick="marcas.chamarTelaEditarMarca(@marca.IdMarca)" title="Editar Marca">
+                            <i class="fas fa-pencil-alt"></i>
+                        </a>
+                        <a class="btn btn-danger btn-sm" onclick="marcas.ExcluirMarca(@marca.IdMarca)" title="Excluir Marca">
+                            <i class="fas fa-trash-alt"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="3" class="text-center">Nenhuma marca cadastrada.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div id="paginationControlsMarcas" class="text-center">
+    <button id="prevPageMarcas" class="btn btn-secondary" disabled>Anterior</button>
+    <span id="pageInfoMarcas"></span>
+    <button id="nextPageMarcas" class="btn btn-secondary">Próximo</button>
+</div>
+<script>
+    $(document).ready(function () {
+        const rowsPerPage = 5; // Número de linhas por página
+        let currentPageMarcas = 1; // Página inicial para Marcas
+
+        function showPage(page, tableSelector, rowSelector, pageInfoSelector, prevButtonSelector, nextButtonSelector) {
+            const rows = $(tableSelector + " tbody " + rowSelector);
+            const totalRows = rows.length;
+            const totalPages = Math.ceil(totalRows / rowsPerPage);
+
+            // Calculando os índices das linhas a serem exibidas
+            const startIndex = (page - 1) * rowsPerPage;
+            const endIndex = startIndex + rowsPerPage;
+
+            // Ocultando todas as linhas
+            rows.hide();
+
+            // Mostrando as linhas da página atual
+            rows.slice(startIndex, endIndex).show();
+
+            // Atualizando as informações de paginação
+            $(pageInfoSelector).text(`Página ${page} de ${totalPages}`);
+
+            // Desabilitar ou habilitar os botões "Anterior" e "Próximo"
+            $(prevButtonSelector).prop("disabled", page === 1);
+            $(nextButtonSelector).prop("disabled", page === totalPages);
+        }
+
+        function initializePagination(tableSelector, rowSelector, pageInfoSelector, prevButtonSelector, nextButtonSelector) {
+            // Inicializa a tabela com a primeira página
+            showPage(currentPageMarcas, tableSelector, rowSelector, pageInfoSelector, prevButtonSelector, nextButtonSelector);
+
+            // Navegação entre as páginas
+            $(prevButtonSelector).click(function () {
+                if (currentPageMarcas > 1) {
+                    currentPageMarcas--;
+                    showPage(currentPageMarcas, tableSelector, rowSelector, pageInfoSelector, prevButtonSelector, nextButtonSelector);
+                }
+            });
+
+            $(nextButtonSelector).click(function () {
+                const rows = $(tableSelector + " tbody " + rowSelector);
+                const totalRows = rows.length;
+                const totalPages = Math.ceil(totalRows / rowsPerPage);
+                if (currentPageMarcas < totalPages) {
+                    currentPageMarcas++;
+                    showPage(currentPageMarcas, tableSelector, rowSelector, pageInfoSelector, prevButtonSelector, nextButtonSelector);
+                }
+            });
+        }
+
+        // Inicializa a paginação para a tabela de Marcas
+        initializePagination("#marcasTable", ".marcaRow", "#pageInfoMarcas", "#prevPageMarcas", "#nextPageMarcas");
+    });
+</script>
